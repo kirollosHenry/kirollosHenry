@@ -10,5 +10,3 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about new technology about c# and .net 
 - 📫 How to reach me: keroloshenry182@gmail.com
-
--->
